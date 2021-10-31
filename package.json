@@ -1,5 +1,5 @@
 {
-  "name": "import-sort-style-renke",
+  "name": "import-sort-style-glooer",
   "version": "6.0.0",
   "description": "Renke's personal import-sort style",
   "main": "lib/index.js",
@@ -13,7 +13,7 @@
     "lint": "eslint --ext ts src"
   },
   "author": "Renke Grunwald <renke@renke.org> (https://github.com/renke)",
-  "repository": "renke/import-sort",
+  "repository": "glooer/import-sort-style-glooer",
   "license": "ISC",
   "files": [
     "lib"
